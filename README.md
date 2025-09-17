@@ -33,6 +33,9 @@
  <a href="https://www.geeksforgeeks.com/bhuvaneswara3n2i" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
+<a href="https://www.hackerrank.com/profile/bhuvaneswararao2" target="_blank" rel="noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
 
 </p>
 
